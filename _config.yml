@@ -68,6 +68,19 @@ serve_og_meta: false # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
+
+
+github_username: annabertani
+twitter_username: AnnaBertani1
+mastodon_username: 
+linkedin_username: annabertani5
+scholar_userid: xZ0hhTcAAAAJ&hl
+orcid_id: 0009-0007-9835-6556
+research_gate_profile: # your profile on ResearchGate
+work_url: https://webapps.unitn.it/du/it/Persona/PER0193445/Pubblicazioni
+stackoverflow_id: # your stackoverflow id
+spotify_id: 
+
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
