@@ -14,12 +14,13 @@ profile:
     <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+I am currently a PhD student in Computer Science and Information Engineering at the University of Trento and Fondazione Bruno Kessler (FBK), where I work at the [Complex Human Behaviour Lab](https://chub.fbk.eu) under the supervision of Dr. Riccardo Gallotti. My research focuses on understanding the structural and functional characteristics of online communication networks and how these properties can influence pathological behaviors, such as the spread of disinformation and misinformation.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I completed an MSc in Data Science at the University of Trento, with a thesis on the characterization of social behavior dynamics during exceptional events, supervised by Prof. [Manlio De Domenico](http://manliodedomenico.com). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I have been a Research Assistant at the Department of Sociology and Social Research at the University of Trento, where I collaborated on the [I-POLHYS](https://www.ipolhys.it/en/project/) under the supervision of Elena Pavan.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My broader research interests span network science, complex systems models of human behavior and online opinion dynamics.
