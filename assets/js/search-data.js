@@ -55,12 +55,10 @@ ninja.data = [{
     },{id: "news-our-paper-large-scale-digital-signatures-of-emotional-response-to-the-covid-19-vaccination-campaign-has-been-published-in-epj-data-science-check-it-out-here",
           title: 'Our paper “Large-scale digital signatures of emotional response to the COVID-19 vaccination campaign”...',
           description: "",
-          section: "News",},{id: "news-announcement-2",
-          title: 'Announcement_2',
+          section: "News",},{id: "news-our-paper-decoding-the-news-media-diet-of-disinformation-spreaders-has-been-published-in-entropy-check-it-out-here",
+          title: 'Our paper “Decoding the News Media Diet of Disinformation Spreaders” has been published...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-i-am-excited-to-begin-my-research-stay-at-indiana-university-as-a-visiting-scholar-at-the-observatory-on-social-media-osome-working-under-the-guidance-of-fil-menczer-and-alessandro-flammini",
+          section: "News",},{id: "news-i-am-excited-to-begin-my-research-stay-at-indiana-university-as-a-visiting-scholar-at-the-observatory-on-social-media-osome-working-under-the-guidance-of-fil-menczer-and-alessandro-flammini",
           title: 'I am excited to begin my research stay at Indiana University as a...',
           description: "",
           section: "News",},{
