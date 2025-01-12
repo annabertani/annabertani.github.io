@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-11-05
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I am excited to begin my research stay at Indiana University as a Visiting Scholar at the Observatory on Social Media (OSoMe), working under the guidance of Fil Menczer and Alessandro Flammini.
