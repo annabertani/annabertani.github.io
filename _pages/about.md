@@ -24,4 +24,4 @@ I completed an MSc in Data Science at the University of Trento, with a thesis on
 I have been a Research Assistant at the Department of Sociology and Social Research at the University of Trento, where I collaborated on the [I-POLHYS](https://www.ipolhys.it/en/project/) under the supervision of Elena Pavan.
 
 My broader research interests span network science, complex systems models of human behavior and online opinion dynamics.
-</div>
+
