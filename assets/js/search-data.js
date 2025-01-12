@@ -92,13 +92,6 @@ ninja.data = [{
           window.open("", "_blank");
         },
       },{
-        id: 'social-mastodon',
-        title: 'Mastodon',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://", "_blank");
-        },
-      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
@@ -110,7 +103,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=xZ0hhTcAAAAJ", "_blank");
         },
       },{
         id: 'social-orcid',
@@ -120,25 +113,11 @@ ninja.data = [{
           window.open("https://orcid.org/0009-0007-9835-6556", "_blank");
         },
       },{
-        id: 'social-researchgate',
-        title: 'ResearchGate',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.researchgate.net/profile//", "_blank");
-        },
-      },{
         id: 'social-work',
         title: 'Work',
         section: 'Socials',
         handler: () => {
           window.open("https://webapps.unitn.it/du/it/Persona/PER0193445/Pubblicazioni", "_blank");
-        },
-      },{
-        id: 'social-stackoverflow',
-        title: 'Stackoverflow',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://stackoverflow.com/users/", "_blank");
         },
       },{
         id: 'social-rss',
