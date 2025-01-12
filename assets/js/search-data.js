@@ -55,7 +55,7 @@ ninja.data = [{
     },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-our-paper-large-scale-digital-signatures-of-emotional-response-to-the-covid-19-vaccination-campaign-has-been-published-in-epj-data-science",
+          section: "News",},{id: "news-our-paper-large-scale-digital-signatures-of-emotional-response-to-the-covid-19-vaccination-campaign-has-been-published-in-epj-data-science-check-it-out-here",
           title: 'Our paper “Large-scale digital signatures of emotional response to the COVID-19 vaccination campaign”...',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
