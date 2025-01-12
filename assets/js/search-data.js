@@ -55,8 +55,8 @@ ninja.data = [{
     },{id: "news-our-paper-large-scale-digital-signatures-of-emotional-response-to-the-covid-19-vaccination-campaign-has-been-published-in-epj-data-science-check-it-out-here",
           title: 'Our paper “Large-scale digital signatures of emotional response to the COVID-19 vaccination campaign”...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-announcement-2",
+          title: 'Announcement_2',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
