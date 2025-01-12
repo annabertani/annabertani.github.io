@@ -52,10 +52,7 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-our-paper-large-scale-digital-signatures-of-emotional-response-to-the-covid-19-vaccination-campaign-has-been-published-in-epj-data-science-check-it-out-here",
+    },{id: "news-our-paper-large-scale-digital-signatures-of-emotional-response-to-the-covid-19-vaccination-campaign-has-been-published-in-epj-data-science-check-it-out-here",
           title: 'Our paper “Large-scale digital signatures of emotional response to the COVID-19 vaccination campaign”...',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
@@ -63,7 +60,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{
+            },},{id: "news-i-am-excited-to-begin-my-research-stay-at-indiana-university-as-a-visiting-scholar-at-the-observatory-on-social-media-osome-working-under-the-guidance-of-fil-menczer-and-alessandro-flammini",
+          title: 'I am excited to begin my research stay at Indiana University as a...',
+          description: "",
+          section: "News",},{
         id: 'social-bluesky',
         title: 'Bluesky',
         section: 'Socials',
