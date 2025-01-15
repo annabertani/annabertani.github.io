@@ -36,7 +36,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-decoding-the-news-media-diet-of-disinformation-spreaders-has-been-published-in-entropy-check-it-out-here",
           title: 'Our paper “Decoding the News Media Diet of Disinformation Spreaders” has been published...',
           description: "",
-          section: "News",},{id: "news-we-presented-our-works-and-projects-at-the-open-lab-seminars-hosted-by-cudanlab-check-out-the-recording-here-https-www-youtube-com-watch-v-ndpuxqfgmuq-amp-amp-t-338s",
+          section: "News",},{id: "news-we-presented-our-works-and-projects-at-the-open-lab-seminars-hosted-by-cudanlab-check-out-the-recording-here",
           title: 'We presented our works and projects at the Open Lab Seminars, hosted by...',
           description: "",
           section: "News",},{id: "news-i-am-excited-to-begin-my-research-stay-at-indiana-university-as-a-visiting-scholar-at-the-observatory-on-social-media-osome-working-under-the-guidance-of-fil-menczer-and-alessandro-flammini",
