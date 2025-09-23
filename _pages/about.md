@@ -19,7 +19,7 @@ I am currently a PhD student in Computer Science and Information Engineering at 
 
 I completed a MSc in Data Science at the University of Trento, with a thesis on the characterization of social behavior dynamics during exceptional events, supervised by Prof. [Manlio De Domenico](http://manliodedomenico.com). 
 
-I have been a Research Assistant at the Department of Sociology and Social Research at the University of Trento, where I collaborated on the [I-POLHYS](https://www.ipolhys.it/en/project/) under the supervision of Elena Pavan.
+I have been a Research Assistant at the Department of Sociology and Social Research at the University of Trento, where I collaborated on the [I-POLHYS](https://www.ipolhys.it/en/project/) under the supervision of elena pavan.
 
 I am also passionate about sharing science with the wider public, particularly during events like European Sharper Nights, where I engage with high school students and the general public to make complex topics more accessible for everyone and to raise awareness about the risks of misinformation.
 
