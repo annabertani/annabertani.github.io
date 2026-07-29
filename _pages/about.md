@@ -6,7 +6,7 @@ subtitle: Postdoctoral Research Fellow at Trinity College Dublin
 <div style="text-align: justify;">
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     
